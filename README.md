@@ -1,9 +1,7 @@
 # Turing theme
 Tema para emacs, el nombre es en honor al Científico de la Computación [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing).
 
->  Alan Turing fue uno de los fundadores de la computación, matemático, filósofo, criptógrafo y un visionario antes de su tiempo.
-
-Algunas de sus principales aportaciones a la informática teórica y a la inteligencia artificial fueron la **máquina de Turing, la computabilidad universal o el test de Turing**. Bajo los servicios de inteligencia británicos, y a lo largo de la Segunda Guerra Mundial, trabajó en Bletchley Park, el centro de criptografía británico, donde dirigió durante un tiempo el Hut 8, la sección responsable del criptoanálisis naval alemán. Desarrolló unas cuantas técnicas para romper los códigos alemanes, incluida la "bomba", una máquina electromecánica que podía romper el código de la máquina alemana de criptografía Enigma. Fue el primer científico que usó ordenadores con aplicaciones a la matemática.
+Algunas de sus principales aportaciones a la computación teórica y a la inteligencia artificial fueron la **máquina de Turing, la computabilidad universal o el test de Turing**. Bajo los servicios de inteligencia británicos, y a lo largo de la Segunda Guerra Mundial, trabajó en Bletchley Park, el centro de criptografía británico, donde dirigió durante un tiempo el Hut 8, la sección responsable del criptoanálisis naval alemán. Desarrolló unas cuantas técnicas para romper los códigos alemanes, incluida la "bomba", una máquina electromecánica que podía romper el código de la máquina alemana de criptografía Enigma. Fue el primer científico que usó ordenadores con aplicaciones a la matemática.
 
 ## Settings
 Clonar el repositorio en tu carpeta de themes y agregar en tu init.el
@@ -12,7 +10,7 @@ Clonar el repositorio en tu carpeta de themes y agregar en tu init.el
 (load-theme 'turing t)
 ~~~
 
-![ScreenShoot Turing theme]("./img/LinkedQueueTuringTheme.png")
+![ScreenShoot Turing theme](./img/LinkedQueueTuringTheme.png)
 
 
 ### Articulos
